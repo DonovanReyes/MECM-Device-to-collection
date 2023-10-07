@@ -12,13 +12,14 @@
 <p align="center">
 <img src="https://i.imgur.com/7JOyFeD.png" height="80%" width="80%"/>
 
-<h2>Configuration Steps</h2>
+-Wait 30 seconds then confirm the desired device is under the appropriate device collection.
+
+<p align="center">
+<img src="https://i.imgur.com/X4w3spr.png" height="80%" width="80%"/>
+   
+Congratulations!👍 You successfully added a device to a Device Collection!
 
 
-<h3>Step 1: Create Azure Account</h3>
-
-
-Create an [Azure](https://azure.microsoft.com/en-us/free/) account
 - Select Start Free
 - Follow the prompt to create the account. 
      - You will need to put in your credit card information but you will get $200 worth of Azure credit and will have 30 days to use those credits. You will not be charged until then.
