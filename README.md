@@ -1,7 +1,8 @@
 # MECM-Device-to-collection
 
-   - Select the virtual machhine we created and the IP address will be on the right hand side 
-   - Copy the IP address
+   - Click on Assets and Compliance tab on bottom right, then click on devices tab under Overview.
+   - Select the device you want to add to a collection. Right click, then add to an existing collection or new collection.
+
 
 <p align="center">
 <img src="https://imgur.com/NcA9ljL.png" height="80%" width="80%" alt="Azure Free Account"/>
