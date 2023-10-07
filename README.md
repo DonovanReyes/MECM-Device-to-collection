@@ -5,7 +5,7 @@
 
 
 <p align="center">
-<img src="https://imgur.com/NcA9ljL.png" height="80%" width="80%" alt="Azure Free Account"/>
+<img src="https://i.imgur.com/Yf9UmTU.png" height="80%" width="80%"/>
 
 * Mac Users <p align="center">
 <img src="https://i.imgur.com/4wqxHID.png" height="40%" width="60%" alt="Microsoft Azure Logo"/>
