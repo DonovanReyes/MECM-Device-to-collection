@@ -4,20 +4,12 @@
    - Select the device you want to add to a collection. Right click, then add to an existing collection or new collection.
 
 
+
+
+- Select Collection then click OK.
+
 <p align="center">
-<img src="https://i.imgur.com/Yf9UmTU.png" height="80%" width="80%"/>
-
-* Mac Users <p align="center">
-<img src="https://i.imgur.com/4wqxHID.png" height="40%" width="60%" alt="Microsoft Azure Logo"/>
-</p>
-
-<h1>Microsoft Azure</h1>
-Microsoft Azure is a cloud platform that will let you rent space in order to store or process your own data. This tutorial will showcase how to create a free Microsoft Azure account and create a virtual machine.
-
-<h2>Requirements</h2>
-
-- Computer with Internet Connection
-- Credit Card (Required for free $200 Azure credits)
+<img src="https://i.imgur.com/7JOyFeD.png" height="80%" width="80%"/>
 
 <h2>Configuration Steps</h2>
 
