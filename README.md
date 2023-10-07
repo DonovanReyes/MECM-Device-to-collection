@@ -3,7 +3,8 @@
    - Click on Assets and Compliance tab on bottom right, then click on devices tab under Overview.
    - Select the device you want to add to a collection. Right click, then add to an existing collection or new collection.
 
-
+<p align="center">
+<img src="https://i.imgur.com/Yf9UmTU.png" height="80%" width="80%"/>
 
 
 - Select Collection then click OK.
